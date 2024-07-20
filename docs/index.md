@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "Care Package Website"
+  name: "Dashboard Integrity Guard"
   text: "A VitePress Site"
   tagline: My great project tagline
   actions:
